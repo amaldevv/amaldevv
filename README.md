@@ -1,5 +1,11 @@
-### Hi there 👋
+# Amal Dev - @amaldevv
 
+Hi, I'm Amal Dev, a software architect who is passionate about building software products and services. I am also a firm believer in sharing knowledge and writes about it in my blog [Tech Repository](https://www.techrepository.in)
+
+## 📫 How to reach me:
+* Twitter  : [@amaldevv](www.twitter.com/amaldevv)
+* LinkedIn : [amaldevv](https://www.linkedin.com/in/amaldevv/)
+* Website  : [Tech Repository](https://www.techrepository.in)
 <!--
 **amaldevv/amaldevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
